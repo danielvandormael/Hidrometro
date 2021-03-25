@@ -58,6 +58,7 @@ public class GerarConsumo {
                         }else if(i == 0){
                             frame.dispose();
                             JOptionPane.showMessageDialog(null, "Consumo para o condominio " + condo + " não adicionados");
+                            tedro
                         }
                     }
                 }
